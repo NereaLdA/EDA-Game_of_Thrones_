@@ -1,4 +1,4 @@
-# 👑**Análisis Juego de Tronos**👑
+# ⚔👑**Análisis Juego de Tronos**👑⚔
 
 ![Texto alternativo](https://m.media-amazon.com/images/I/519IvvdDEUL._AC_UF894,1000_QL80_.jpg)
 
@@ -7,3 +7,14 @@ Juego de Tronos (o Game of Thrones en inglés) es una serie de televisión de fa
 ## ❔Hipótesis❔
 
 El objetivo de este EDA es demostrar si existe relación entre el éxito de las temporadas y el número de muertes de personajes que se dan en las mismas
+
+## 💻Proceso💻
+
+Para probar si esta hipótesis es correcta, se van a analizar datos de distintos datasets, a saber:
+
+  1. Batallas:
+  2. Episodes
+  3. Episodios y muertes
+  4. Muertes por episodio 1
+  5. Muertes por episodio 2
+  6. Viewers
