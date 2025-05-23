@@ -20,6 +20,8 @@ El objetivo de este EDA es demostrar si existe relación entre el éxito de las 
 
 ❔¿Qué casa ha sido la que más ha matado?
 
+❔¿Las casas favoritas han tenido más muertes?
+
 ## 💻Proceso💻
 
 Para probar si esta hipótesis es correcta, se van a analizar datos de distintos datasets, disponibles en la carpeta [notebooks](https://github.com/NereaLdA/EDA-Game_of_Thrones_/tree/main/notebooks), a saber:
