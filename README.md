@@ -22,6 +22,13 @@ El objetivo de este EDA es demostrar si existe relación entre el éxito de las 
 
 ❔¿Las casas favoritas han tenido más muertes?
 
+**BATALLAS:**
+❔¿El ejército atacante ha ganado más veces que el atacado?​
+
+❔¿El ejercito con más miembros siempre ha ganado?
+
+❔¿Qué casa ha comenzado más batallas?
+
 ## 💻Proceso💻
 
 Para probar si esta hipótesis es correcta, se van a analizar datos de distintos datasets, disponibles en la carpeta [notebooks](https://github.com/NereaLdA/EDA-Game_of_Thrones_/tree/main/notebooks), a saber:
