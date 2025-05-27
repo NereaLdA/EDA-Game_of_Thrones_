@@ -16,10 +16,10 @@ Juego de Tronos (o Game of Thrones en inglés) es una serie de televisión de fa
 
 ❔¿Qué tipo de muertes han tenido más audiencia?
 
-❔¿Cuádno ha habido más muertes relevantes?
+❔¿Cuándo ha habido más muertes relevantes?
 
 
-## 🗡Hipótesis2🗡HECHO CON EPISODES
+## 🗡Hipótesis2🗡
 **La calidad de las temporadas ha disminuido**
 
 ❔¿Qué tendencia ha seguido la calidad de las temporadas?
