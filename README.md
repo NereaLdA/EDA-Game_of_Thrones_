@@ -6,7 +6,7 @@ Juego de Tronos (o Game of Thrones en inglés) es una serie de televisión de fa
 
 ## 🗡Hipótesis1🗡
 
-**¿Existe relación entre el éxito de las temporadas y el número de muertes de personajes que se dan en las mismas?**
+**Existe una relación entre el éxito de las temporadas y el número de muertes de personajes que se dan en las mismas**
 
 ❔¿Los episodios con más muertes han tenido mayor audiencia?
 
