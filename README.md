@@ -31,6 +31,7 @@ Juego de Tronos (o Game of Thrones en inglés) es una serie de televisión de fa
 
 ## 🗡Hipótesis3🗡
 **La mayoría de muertes han sido por espada**
+
 ❔¿Quién ha matado más?
 
 ❔¿Cómo ha matado?
@@ -43,6 +44,7 @@ Juego de Tronos (o Game of Thrones en inglés) es una serie de televisión de fa
 ## 🗡Hipótesis4🗡
 
 **Las batallas no han estado igualadas**
+
 ❔¿El ejército atacante ha ganado más veces que el atacado?​
 
 ❔¿El ejercito con más miembros siempre ha ganado?
