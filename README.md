@@ -4,30 +4,53 @@
 
 Juego de Tronos (o Game of Thrones en inglés) es una serie de televisión de fantasía medieval, basada en las novelas Canción de Hielo y Fuego de George R.R. Martin, que narra la lucha por el Trono de Hierro en Poniente, un continente ficticio. La trama se centra en las intrigas políticas, las alianzas cambiantes, las traiciones y las violentas batallas entre varias casas nobles por el control de los Siete Reinos. 
 
-## 🗡Hipótesis🗡
+## 🗡Hipótesis1🗡
 
-El objetivo de este EDA es demostrar si existe relación entre el éxito de las temporadas y el número de muertes de personajes que se dan en las mismas. Se plantean las siguientes preguntas, a modo de guía para el desarrollo de este análisis:
+**¿Existe relación entre el éxito de las temporadas y el número de muertes de personajes que se dan en las mismas?**
 
-❔¿Qué tendencia ha seguido la calidad de las temporadas?
+❔¿Los episodios con más muertes han tenido mayor audiencia?
 
-❔¿Cuántos espectadores ha tenido la serie?¿Se ha mantenido dicho número?
+❔¿Los episodios con más muertes han tenido mejor valoración?
 
 ❔¿Cuántas muertes ha habido en cada temporada?¿Y en cada episodio?
 
 ❔¿Qué tipo de muertes han tenido más audiencia?
 
+❔¿Cuádno ha habido más muertes relevantes?
+
+
+## 🗡Hipótesis2🗡
+**La calidad de las temporadas ha disminuido**
+
+❔¿Qué tendencia ha seguido la calidad de las temporadas?
+
+❔¿Cuántos espectadores ha tenido la serie?¿Se ha mantenido dicho número?
+
+❔¿Ha habido episodios mal valorados?¿Por qué?
+
+
+## 🗡Hipótesis3🗡
+**La mayoría de muertes han sido por espada**
+❔¿Quién ha matado más?
+
+❔¿Cómo ha matado?
+
+❔¿Qué casa ha sufrido más bajas?
+
 ❔¿Qué casa ha perdido más miembros relevantes?
 
-❔¿Qué casa ha sido la que más ha matado?
 
-❔¿Las casas favoritas han tenido más muertes?
+## 🗡Hipótesis4🗡
 
-**BATALLAS:**
+**Las batallas no han estado igualadas**
 ❔¿El ejército atacante ha ganado más veces que el atacado?​
 
 ❔¿El ejercito con más miembros siempre ha ganado?
 
 ❔¿Qué casa ha comenzado más batallas?
+
+❔¿Las casas favoritas han tenido más muertes?
+
 
 ## 💻Proceso💻
 
