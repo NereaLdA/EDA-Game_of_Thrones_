@@ -19,7 +19,7 @@ Juego de Tronos (o Game of Thrones en inglés) es una serie de televisión de fa
 ❔¿Cuádno ha habido más muertes relevantes?
 
 
-## 🗡Hipótesis2🗡HECHO
+## 🗡Hipótesis2🗡HECHO CON EPISODES
 **La calidad de las temporadas ha disminuido**
 
 ❔¿Qué tendencia ha seguido la calidad de las temporadas?
@@ -30,9 +30,9 @@ Juego de Tronos (o Game of Thrones en inglés) es una serie de televisión de fa
 
 
 ## 🗡Hipótesis3🗡
-**La mayoría de muertes han sido por espada**
+**La mayoría de muertes han sido por espada**  ES EL MÁS FRECUENTE PEOR NO EL QUE MÁS MUERTES HA CAUSADO
 
-❔¿Quién ha matado más?
+❔¿Quién ha matado más? depende si general o protas
 
 ❔¿Cómo ha matado?
 
