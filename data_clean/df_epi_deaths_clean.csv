@@ -1,0 +1,74 @@
+Season,Episode Number,Number in Season,Episode Name,US viewers (million),Runtime (mins),IMDB votes,Imdb Rating,Notable Death Count
+1,1,1,Winter Is Coming,2.22,62,27685,9.0,4
+1,2,2,The Kingsroad,2.2,56,21256,8.8,3
+1,3,3,Lord Snow,2.44,58,20090,8.7,0
+1,4,4,"Cripples, Bastards, and Broken Things",2.45,56,19123,8.8,1
+1,5,5,The Wolf and the Lion,2.58,55,20062,9.1,5
+1,6,6,A Golden Crown,2.44,53,19908,9.2,4
+1,7,7,You Win or You Die,2.4,58,20405,9.3,2
+1,8,8,The Pointy End,2.72,59,18688,9.1,7
+1,9,9,Baelor,2.66,57,26364,9.6,2
+1,10,10,Fire and Blood,3.04,53,23354,9.5,3
+2,11,1,The North Remembers,3.86,53,18688,8.9,2
+2,12,2,The Night Lands,3.76,54,17545,8.6,1
+2,13,3,What Is Dead May Never Die,3.77,53,17365,8.9,2
+2,14,4,Garden of Bones,3.65,51,16706,8.9,4
+2,15,5,The Ghost of Harrenhal,3.9,55,16846,8.9,4
+2,16,6,The Old Gods and the New,3.88,54,17799,9.1,5
+2,17,7,A Man Without Honor,3.69,56,17256,9.0,5
+2,18,8,The Prince of Winterfell,3.86,54,16975,8.9,3
+2,19,9,Blackwater,3.38,55,30368,9.7,2
+2,20,10,Valar Morghulis,4.2,64,21557,9.4,6
+3,21,1,Valar Dohaeris,4.37,55,19010,8.9,0
+3,22,2,"Dark Wings, Dark Words",4.27,56,16855,8.7,1
+3,23,3,Walk of Punishment,4.72,56,17072,8.9,1
+3,24,4,And Now His Watch Is Ended,4.87,53,23833,9.6,5
+3,25,5,Kissed by Fire,5.35,57,17309,9.0,4
+3,26,6,The Climb,5.5,53,17167,8.9,1
+3,27,7,The Bear and the Maiden Fair,4.84,58,16496,8.8,0
+3,28,8,Second Sons,5.13,56,17121,9.1,3
+3,29,9,The Rains of Castamere,5.22,51,68630,9.9,8
+3,30,10,Mhysa,5.39,63,19573,9.2,1
+4,31,1,Two Swords,6.64,58,23379,9.1,2
+4,32,2,The Lion and the Rose,6.31,52,37772,9.7,3
+4,33,3,Breaker of Chains,6.59,57,18948,8.9,4
+4,34,4,Oathkeeper,6.95,55,18075,8.9,1
+4,35,5,First of His Name,7.16,53,17414,8.8,3
+4,36,6,The Laws of Gods and Men,6.4,51,32906,9.7,0
+4,37,7,Mockingbird,7.2,51,19693,9.2,4
+4,38,8,The Mountain and the Viper,7.17,52,36547,9.7,6
+4,39,9,The Watchers on the Wall,6.95,51,30073,9.6,10
+4,40,10,The Children,7.09,65,29933,9.7,4
+5,41,1,The Wars to Come,8.0,53,20355,8.6,2
+5,42,2,The House of Black and White,6.81,56,17318,8.6,3
+5,43,3,High Sparrow,6.71,60,16626,8.6,5
+5,44,4,Sons of the Harpy,6.82,51,17239,8.8,3
+5,45,5,Kill the Boy,6.56,57,17450,8.7,1
+5,46,6,"Unbowed, Unbent, Unbroken",6.24,54,19807,8.1,1
+5,47,7,The Gift,5.4,59,19563,9.1,2
+5,48,8,Hardhome,7.01,61,71476,9.9,4
+5,49,9,The Dance of Dragons,7.14,52,30748,9.5,2
+5,50,10,Mother's Mercy,8.11,60,29845,9.1,7
+6,51,1,The Red Woman,7.94,50,29145,8.6,4
+6,52,2,Home,7.29,54,35219,9.5,4
+6,53,3,Oathbreaker,7.28,52,23399,8.8,5
+6,54,4,Book of the Stranger,7.82,59,25572,9.2,8
+6,55,5,The Door,7.89,57,51836,9.7,5
+6,56,6,Blood of My Blood,6.71,52,23207,8.5,0
+6,57,7,The Broken Man,7.8,51,22411,8.7,1
+6,58,8,No One,7.6,59,26041,8.4,4
+6,59,9,Battle of the Bastards,7.66,60,159082,9.9,4
+6,60,10,The Winds of Winter,8.89,68,109392,9.9,11
+7,61,1,Dragonstone,10.11,59,36720,8.7,2
+7,62,2,Stormborn,9.27,59,30683,9.0,2
+7,63,3,The Queen's Justice,9.25,63,31822,9.3,2
+7,64,4,The Spoils of War,10.17,50,64201,9.8,0
+7,65,5,Eastwatch,10.72,59,29870,9.0,2
+7,66,6,Beyond the Wall,10.24,70,44284,9.2,3
+7,67,7,The Dragon and the Wolf,12.07,80,42505,9.6,1
+8,68,1,Winterfell,11.76,54,120508,7.6,1
+8,69,2,A Knight of the Seven Kingdoms,10.29,58,118605,7.9,0
+8,70,3,The Long Night,12.02,82,198482,7.5,7
+8,71,4,The Last of the Starks,11.8,78,151229,5.5,2
+8,72,5,The Bells,12.4,78,176140,6.0,7
+8,73,6,The Iron Throne,13.61,80,216879,4.1,1

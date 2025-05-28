@@ -1,0 +1,39 @@
+name,attacker_king,defender_king,attacker_1,defender_1,attacker_outcome,major_death,attacker_size,defender_size,attacker_commander,defender_commander,summer
+Battle of the Golden Tooth,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Tully,win,1.0,15000.0,4000.0,Jaime Lannister,"Clement Piper, Vance",1.0
+Battle at the Mummer's Ford,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Baratheon,win,1.0,,120.0,Gregor Clegane,Beric Dondarrion,1.0
+Battle of Riverrun,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Tully,win,0.0,15000.0,10000.0,"Jaime Lannister, Andros Brax","Edmure Tully, Tytos Blackwood",1.0
+Battle of the Green Fork,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,loss,1.0,18000.0,20000.0,"Roose Bolton, Wylis Manderly, Medger Cerwyn, Harrion Karstark, Halys Hornwood","Tywin Lannister, Gregor Clegane, Kevan Lannister, Addam Marbrand",1.0
+Battle of the Whispering Wood,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,win,1.0,1875.0,6000.0,"Robb Stark, Brynden Tully",Jaime Lannister,1.0
+Battle of the Camps,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,win,0.0,6000.0,12625.0,"Robb Stark, Tytos Blackwood, Brynden Tully","Lord Andros Brax, Forley Prester",1.0
+Sack of Darry,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Darry,win,0.0,,,Gregor Clegane,Lyman Darry,1.0
+Battle of Moat Cailin,Balon/Euron Greyjoy,Robb Stark,Greyjoy,Stark,win,0.0,,,Victarion Greyjoy,,1.0
+Battle of Deepwood Motte,Balon/Euron Greyjoy,Robb Stark,Greyjoy,Stark,win,0.0,1000.0,,Asha Greyjoy,,1.0
+Battle of the Stony Shore,Balon/Euron Greyjoy,Robb Stark,Greyjoy,Stark,win,0.0,264.0,,Theon Greyjoy,,1.0
+Battle of Torrhen's Square,Robb Stark,Balon/Euron Greyjoy,Stark,Greyjoy,win,0.0,244.0,900.0,"Rodrik Cassel, Cley Cerwyn",Dagmer Cleftjaw,1.0
+Battle of Winterfell,Balon/Euron Greyjoy,Robb Stark,Greyjoy,Stark,win,0.0,20.0,,Theon Greyjoy,Bran Stark,1.0
+Sack of Torrhen's Square,Balon/Euron Greyjoy,Balon/Euron Greyjoy,Greyjoy,Stark,win,0.0,,,Dagmer Cleftjaw,,1.0
+Sack of Winterfell,Joffrey/Tommen Baratheon,Robb Stark,Bolton,Stark,win,1.0,618.0,2000.0,"Ramsay Snow, Theon Greyjoy ","Rodrik Cassel, Cley Cerwyn, Leobald Tallhart",1.0
+Battle of Oxcross,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,win,1.0,6000.0,10000.0,"Robb Stark, Brynden Tully","Stafford Lannister, Roland Crakehall, Antario Jast",1.0
+Siege of Storm's End,Stannis Baratheon,Renly Baratheon,Baratheon,Baratheon,win,1.0,5000.0,20000.0,"Stannis Baratheon, Davos Seaworth","Renly Baratheon, Cortnay Penrose, Loras Tyrell, Randyll Tarly, Mathis Rowan",1.0
+Battle of the Fords,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Tully,loss,0.0,20000.0,10000.0,"Tywin Lannister, Flement Brax, Gregor Clegane, Addam Marbrand, Lyle Crakehall, Leo Lefford","Edmure Tully, Jason Mallister, Karyl Vance",1.0
+Sack of Harrenhal,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,win,1.0,100.0,100.0,"Roose Bolton, Vargo Hoat, Robett Glover",Amory Lorch,1.0
+Battle of the Crag,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,win,0.0,6000.0,,"Robb Stark, Smalljon Umber, Black Walder Frey",Rolph Spicer,1.0
+Battle of the Blackwater,Stannis Baratheon,Joffrey/Tommen Baratheon,Baratheon,Lannister,loss,1.0,21000.0,7250.0,"Stannis Baratheon, Imry Florent, Guyard Morrigen, Rolland Storm, Salladhor Saan, Davos Seaworth","Tyrion Lannister, Jacelyn Bywater, Sandor Clegane, Tywin Lannister, Garlan Tyrell, Mace Tyrell, Randyll Tarly",1.0
+Siege of Darry,Robb Stark,Joffrey/Tommen Baratheon,Darry,Lannister,win,0.0,,,Helman Tallhart,,1.0
+Battle of Duskendale,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,loss,1.0,3000.0,,"Robertt Glover, Helman Tallhart","Randyll Tarly, Gregor Clegane",1.0
+Battle of the Burning Septry,,,Brotherhood without Banners,Brave Companions,win,0.0,,,,,1.0
+Battle of the Ruby Ford,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Stark,win,0.0,,6000.0,Gregor Clegane,"Roose Bolton, Wylis Manderly",
+Retaking of Harrenhal,Joffrey/Tommen Baratheon,,Lannister,Brave Companions,win,1.0,,,Gregor Clegane,Vargo Hoat,1.0
+The Red Wedding,Joffrey/Tommen Baratheon,Robb Stark,Frey,Stark,win,1.0,3500.0,3500.0,"Walder Frey, Roose Bolton, Walder Rivers",Robb Stark,1.0
+Siege of Seagard,Robb Stark,Joffrey/Tommen Baratheon,Frey,Mallister,win,0.0,,,Walder Frey,Jason Mallister,1.0
+Battle of Castle Black,Stannis Baratheon,Mance Rayder,Free folk,Night's Watch,loss,1.0,100000.0,1240.0,"Mance Rayder, Tormund Giantsbane, Harma Dogshead, Magnar Styr, Varamyr","Stannis Baratheon, Jon Snow, Donal Noye, Cotter Pyke",0.0
+Fall of Moat Cailin,Joffrey/Tommen Baratheon,Balon/Euron Greyjoy,Bolton,Greyjoy,win,0.0,,,Ramsey Bolton,,0.0
+Sack of Saltpans,,,Brave Companions,,win,0.0,,,Rorge,,0.0
+Retaking of Deepwood Motte,Stannis Baratheon,Balon/Euron Greyjoy,Baratheon,Greyjoy,win,0.0,4500.0,200.0,"Stannis Baratheon, Alysane Mormot",Asha Greyjoy,0.0
+Battle of the Shield Islands,Balon/Euron Greyjoy,Joffrey/Tommen Baratheon,Greyjoy,Tyrell,win,0.0,,,"Euron Greyjoy, Victarion Greyjoy",,0.0
+"Invasion of Ryamsport, Vinetown, and Starfish Harbor",Balon/Euron Greyjoy,Joffrey/Tommen Baratheon,Greyjoy,Tyrell,win,0.0,,,"Euron Greyjoy, Victarion Greyjoy",,0.0
+Second Seige of Storm's End,Joffrey/Tommen Baratheon,Stannis Baratheon,Baratheon,Baratheon,win,0.0,,200.0,"Mace Tyrell, Mathis Rowan",Gilbert Farring,0.0
+Siege of Dragonstone,Joffrey/Tommen Baratheon,Stannis Baratheon,Baratheon,Baratheon,win,0.0,2000.0,,"Loras Tyrell, Raxter Redwyne",Rolland Storm,0.0
+Siege of Riverrun,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Tully,win,0.0,3000.0,,"Daven Lannister, Ryman Fey, Jaime Lannister",Brynden Tully,0.0
+Siege of Raventree,Joffrey/Tommen Baratheon,Robb Stark,Bracken,Blackwood,win,0.0,1500.0,,"Jonos Bracken, Jaime Lannister",Tytos Blackwood,0.0
+Siege of Winterfell,Stannis Baratheon,Joffrey/Tommen Baratheon,Baratheon,Bolton,,,5000.0,8000.0,Stannis Baratheon,Roose Bolton,0.0
