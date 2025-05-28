@@ -36,9 +36,6 @@ Juego de Tronos (o Game of Thrones en inglés) es una serie de televisión de fa
 
 ❔¿Cómo ha matado?
 
-❔¿Qué casa ha sufrido más bajas?
-
-❔¿Qué casa ha perdido más miembros relevantes?
 
 
 ## 🗡Hipótesis4🗡
@@ -51,7 +48,6 @@ Juego de Tronos (o Game of Thrones en inglés) es una serie de televisión de fa
 
 ❔¿Qué casa ha comenzado más batallas?
 
-❔¿Las casas favoritas han tenido más muertes?
 
 
 ## 💻Proceso💻
