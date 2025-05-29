@@ -105,7 +105,7 @@ sns.heatmap(corr,
             linewidths=.1,
             annot=True);
 plt.title("HEATMAP CORRELACIONES 1", fontsize=20)
-plt.savefig("../img/Heatmap_correlaciones_1")
+plt.savefig("../img/Heatmap_correlaciones_1.jpg")
 
 #2
 df = df_epi_deaths.sort_values(by=["Season", "Number in Season"])
@@ -120,7 +120,7 @@ ax2.set_ylabel('Audiencia (millones)', color="#4682B4")
 ax2.tick_params(axis='y', labelcolor="#4682B4")
 plt.title('MUERTES RELEVANTES Y AUDIENCIA')
 fig.tight_layout()
-plt.savefig("../img/Muertes_relevantes_y_audiencia")
+plt.savefig("../img/Muertes_relevantes_y_audiencia.jpg")
 
 #3
 df = df_epi_deaths.sort_values(by=["Season", "Number in Season"])
@@ -135,7 +135,7 @@ ax2.set_ylabel('Rating', color="#4682B4")
 ax2.tick_params(axis='y', labelcolor="#4682B4")
 plt.title('MUERTES RELEVANTES Y AUDIENCIA POR EPISODIO')
 fig.tight_layout()
-plt.savefig("../img/Muertes_relevantes_y_rating")
+plt.savefig("../img/Muertes_relevantes_y_rating.jpg")
 
 #4
 muertes_por_episodio = df_epi_deaths.groupby("Number in Season")["Notable Death Count"].sum()
@@ -144,7 +144,7 @@ plt.xlabel("Número de Episodio")
 plt.ylabel("Muertes Notables")
 plt.title("MUERTES RELEVANTES POR Nº DE EPISODIO")
 plt.tight_layout()
-plt.savefig("../img/Muertes_relevantes_por_episodio")
+plt.savefig("../img/Muertes_relevantes_por_episodio.jpg")
 
 #5
 num_barras = len(df_muertes_epi1_clean['Season'].value_counts())
@@ -153,7 +153,7 @@ df_muertes_epi1_clean['Season'].value_counts().sort_index().plot(
     title='MUERTES RELEVANTES POR TEMPORADA',
     color=GOTcolors[:num_barras])
 plt.xticks(rotation=0)
-plt.savefig("../img/Muertes_relevantes_por_temporada")
+plt.savefig("../img/Muertes_relevantes_por_temporada.jpg")
 
 num_barras = len(df_muertes_epi1['Season'].value_counts())
 
@@ -162,10 +162,10 @@ df_muertes_epi1['Season'].value_counts().sort_index().plot(
     title='MUERTES GENERALES POR TEMPORADA',
     color=GOTcolors[:num_barras])
 plt.xticks(rotation=0)
-plt.savefig("../img/Muertes_generales_por_temporada")
+plt.savefig("../img/Muertes_generales_por_temporada.jpg")
 
 df_muertes_epi2_clean['episode'].value_counts().sort_index().plot(kind='bar', title='MUERTES POR EPISODIOS AGRUPADOS', color = GOTcolors)
-plt.savefig("../img/Muertes_episodios_agrupados")
+plt.savefig("../img/Muertes_episodios_agrupados.jpg")
 
 #6
 top_5_episodios = df_muertes_y_viewers.groupby("episode")["U.S. viewers(millions)"].mean().nlargest(5).index
@@ -178,7 +178,7 @@ plt.xlabel("Método de muerte")
 plt.ylabel("Frecuencia")
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig("../img/Top5_metodos_episodios")
+plt.savefig("../img/Top5_metodos_episodios.jpg")
 
 df_filtrado = df_muertes_y_viewers[~df_muertes_y_viewers["method_cat"].isin(["Unknown", "Other"])]
 top_5_episodios = df_filtrado.groupby("episode")["U.S. viewers(millions)"].mean().nlargest(5).index
@@ -191,7 +191,7 @@ plt.xlabel("Método de muerte")
 plt.ylabel("Frecuencia")
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig("../img/Top5_metodos_episodios_II")
+plt.savefig("../img/Top5_metodos_episodios_II.jpg")
 
 
 #HIPÓTESIS 2
@@ -208,7 +208,7 @@ plt.ylabel('Valoración (escala 0–10)')
 plt.title('RATINGS EPISODIOS')
 plt.legend()
 plt.tight_layout()
-plt.savefig("../img/RATINGS EPISODIOS")
+plt.savefig("../img/RATINGS EPISODIOS.jpg")
 
 #2
 df_episodes_clean["Average Rating"] = df_episodes_clean[["IMDb Rating", "Metacritic Ratings", "Rotten Tomatoes Rating"]].mean(axis=1)
@@ -221,7 +221,7 @@ plt.ylabel('puntuación 1-10')
 plt.title('RATING MEDIO')
 plt.legend()
 plt.tight_layout()
-plt.savefig("../img/Rating_medio")
+plt.savefig("../img/Rating_medio.jpg")
 
 #4
 plt.figure(figsize=(12, 6))
@@ -232,7 +232,7 @@ plt.ylabel('Espectadores (millones)')
 plt.title('AUDIENCIA')
 plt.legend()
 plt.tight_layout()
-plt.savefig("../img/Audiencia")
+plt.savefig("../img/Audiencia.jpg")
 
 
 #HIPÓTESIS 3
@@ -246,7 +246,7 @@ df_muertes_epi1_clean['Killer'] \
 plt.xlabel('Número de muertes')
 plt.ylabel('Asesinos')
 plt.tight_layout()
-plt.savefig("../img/Top10_asesinos_relevantes")
+plt.savefig("../img/Top10_asesinos_relevantes.jpg")
 
 df_muertes_epi1_clean['Method'] \
     .value_counts() \
@@ -258,7 +258,7 @@ plt.xlabel('Veces usado')
 plt.ylabel('Método')
 plt.tight_layout()
 heatmap_data = df_muertes_epi1_clean.pivot_table(index='Killer', columns='Method', aggfunc='size', fill_value=0)
-plt.savefig("../img/Metodo_asesinato_relevantes")
+plt.savefig("../img/Metodo_asesinato_relevantes.jpg")
 
 df_muertes_epi1['Killer'] \
     .value_counts() \
@@ -269,7 +269,7 @@ df_muertes_epi1['Killer'] \
 plt.xlabel('Número de muertes')
 plt.ylabel('Asesinos')
 plt.tight_layout()
-plt.savefig("../img/Top10_asesinos_general")
+plt.savefig("../img/Top10_asesinos_general.jpg")
 
 df_muertes_epi1['Method'] \
     .value_counts() \
@@ -280,7 +280,7 @@ df_muertes_epi1['Method'] \
 plt.xlabel('Veces usado')
 plt.ylabel('Método')
 plt.tight_layout()
-plt.savefig("../img/Metodo_asesinato_general")
+plt.savefig("../img/Metodo_asesinato_general.jpg")
 
 #2
 df_muertes_epi1['Killers House'] \
@@ -291,7 +291,7 @@ df_muertes_epi1['Killers House'] \
           title='MUERTES POR CASA DEL ASESINO')
 plt.xlabel('Número de muertes')
 plt.tight_layout()
-plt.savefig("../img/Muertes_casa_asesino")
+plt.savefig("../img/Muertes_casa_asesino.jpg")
 
 
 #HIPÓTESIS 4
@@ -303,7 +303,7 @@ plt.title("¿GANA MÁS EL ATACANTE O EL DEFENSOR?")
 plt.xticks(rotation=0)
 plt.ylabel("Número de batallas")
 plt.xlabel("Resultado para el atacante")
-plt.savefig("../img/ganador")
+plt.savefig("../img/ganador.jpg")
 
 #2
 df_batallas_ejer = df_battles_clean.dropna(subset=["attacker_size", "defender_size", "attacker_outcome"])
@@ -330,7 +330,7 @@ sns.barplot(x=conteo.index, y=conteo.values, palette=["#013220", "#8B0000"])
 plt.title("¿GANA EL EJÉRCITO MÁS GRANDE?")
 plt.ylabel("Número de batallas")
 plt.xlabel("")
-plt.savefig("../img/tamanio_gana")
+plt.savefig("../img/tamanio_gana.jpg")
 
 #3
 data = df_battles["attacker_king"].value_counts()
@@ -345,6 +345,6 @@ plt.pie(data.values,
 p=plt.gcf()
 p.gca().add_artist(my_circle)
 plt.title("REY ATACANTE")
-plt.savefig("../img/rey_atacante")
+plt.savefig("../img/rey_atacante.jpg")
 
 
